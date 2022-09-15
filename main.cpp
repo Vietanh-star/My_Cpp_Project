@@ -33,6 +33,6 @@ int main(){          // g++ -o run main.cpp System.cpp Faculty.cpp Student.cpp S
             break;
         }
     }
-    
+    // them comment phu
     return 0;
 }
