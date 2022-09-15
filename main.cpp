@@ -34,5 +34,6 @@ int main(){          // g++ -o run main.cpp System.cpp Faculty.cpp Student.cpp S
         }
     }
     // them comment phu
+    // them comment cho branch phu
     return 0;
 }
